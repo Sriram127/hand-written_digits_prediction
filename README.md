@@ -2,16 +2,6 @@
 
 A beginner-friendly machine learning web app that classifies handwritten digits from uploaded images using a Random Forest classifier.
 
-## Live Demo
-
-**[Open on Streamlit Community Cloud](https://sriram127-hand-written-digits-prediction.streamlit.app/)**
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sriram127-hand-written-digits-prediction.streamlit.app/)
-
-## Screenshot
-
-> _Screenshot will appear here once the app is deployed to Streamlit Community Cloud._
-
 ## Features
 
 - Streamlit web app with dark theme
@@ -58,14 +48,6 @@ streamlit run app.py
 ```
 
 The app opens at `http://localhost:8501`.
-
-## Deploy to Streamlit Community Cloud
-
-1. Go to [share.streamlit.io](https://share.streamlit.io) and sign in with GitHub.
-2. Click **New app**.
-3. Select repository `Sriram127/hand-written_digits_prediction`.
-4. Set **Main file path** to `app.py`.
-5. Click **Deploy**.
 
 ## How It Works
 
